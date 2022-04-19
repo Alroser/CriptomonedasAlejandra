@@ -1,0 +1,17 @@
+[
+  [{
+    "id_moneda": 5,
+    "nombre_moneda": "Binance coin"
+  }],
+  {
+    "errors":[
+      {
+        "value":null,
+        "msg":"Invalid value",
+        "param":"id",
+        "location":"params"
+      }
+    ]
+  }
+]
+

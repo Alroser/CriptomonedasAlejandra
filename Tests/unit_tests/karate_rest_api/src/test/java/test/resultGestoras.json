@@ -1,0 +1,20 @@
+[
+  [
+  {
+    "id_gestora": 2,
+    "nombre_gestora": "CryptoInc",
+    "id_moneda": 1,
+    "nombre_moneda": "Bitcoin",
+    "simbolo_moneda": "BTC",
+    "valor_moneda": "345,5"
+  },
+  {
+    "id_gestora": 2,
+    "nombre_gestora": "CryptoInc",
+    "id_moneda": 3,
+    "nombre_moneda": "Crypt",
+    "simbolo_moneda": "CRT",
+    "valor_moneda": "400,78"
+  }
+    ]
+]

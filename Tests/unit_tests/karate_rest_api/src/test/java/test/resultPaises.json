@@ -1,0 +1,46 @@
+[
+  [
+  {
+    "nombre_moneda": "Bitcoin",
+    "simbolo_moneda": "BTC",
+    "valor_moneda": "345,5"
+  },
+  {
+    "nombre_moneda": "Crypt",
+    "simbolo_moneda": "CRT",
+    "valor_moneda": "400,78"
+  }
+
+],
+  [
+    {
+      "id_moneda": 1,
+      "nombre_moneda": "Bitcoin",
+      "simbolo_moneda": "BTC",
+      "valor_moneda": "345,5"
+    },
+    {
+      "id_moneda": 2,
+      "nombre_moneda": "Ethereum",
+      "simbolo_moneda": "ETH",
+      "valor_moneda": "4,485.19"
+    },
+    {
+      "id_moneda": 4,
+      "nombre_moneda": "Solana",
+      "simbolo_moneda": "SOL",
+      "valor_moneda": "310,50"
+    },
+    {
+      "id_moneda": 5,
+      "nombre_moneda": "Binance coin",
+      "simbolo_moneda": "BNB",
+      "valor_moneda": "601,76"
+    }
+  ]
+
+
+
+
+
+]
